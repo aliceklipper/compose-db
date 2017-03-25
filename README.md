@@ -1,6 +1,6 @@
-# simplest
+# compose-db
 
- >  My webpack 2 template for static websites.
+ >  X.Org Compose sequences database with user-friendly interface.
 
 TODO:
 

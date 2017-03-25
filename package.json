@@ -1,5 +1,5 @@
 {
-  "name": "simplest",
+  "name": "compose-db",
   "version": "0.0.1",
   "description": "X.Org Compose sequences database with user-friendly interface.",
   "author": "Alice Klipper <alice.klipper@yandex.com>",
