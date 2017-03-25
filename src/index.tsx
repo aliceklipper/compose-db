@@ -6,12 +6,8 @@
 import React    = require('react');
 import ReactDOM = require('react-dom');
 
+import { App } from './components/App';
+
 console.log('Alice loves you, hentai baka ❤️');
 
-ReactDOM.render(
-    (
-        <div>
-            <p>Alice loves you, hentai baka ❤</p>
-        </div>
-    ), document.querySelector('#mount')
-);
+ReactDOM.render(<App />, document.querySelector('#mount'));
