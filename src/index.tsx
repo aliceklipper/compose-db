@@ -8,6 +8,10 @@ import ReactDOM = require('react-dom');
 
 import { App } from './components/App';
 
+const db = require<DbComposeRecord[]>('./compose-db.json');
+
+console.log(db);
+
 console.log('Alice loves you, hentai baka ❤️');
 
 ReactDOM.render(<App />, document.querySelector('#mount'));
